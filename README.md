@@ -1,4 +1,4 @@
-# 🎉 DDCET Result Scraper (MERN Edition) 🎉  
+# 🎉 DDCET Result Scraper 🎉  
 Say goodbye to captchas, and hello to all the data at once!
 
 Welcome to the MERN-powered web scraper that laughs in the face of captchas and fetches all the data from the **ACPC DDCET result website**. Forget about solving simple math problems — we’re taking a direct route to the backend, because, well... someone left the door unlocked. 😎  
